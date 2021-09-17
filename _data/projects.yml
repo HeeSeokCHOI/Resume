@@ -2,15 +2,43 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Development of intelligent virtual resource and infrastructure management techniques for cognitive cloud
+  role: Developed of intelligent virtual resource management techniques
+  duration: Mar, 2020 &mdash; Aug, 2020
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Funded by the National Research Foundation of Korea (NRF).
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# jazznotes.io
+- project: Resource Management Framewor k with Workload Prediction on Real time Lightweight MEC Systems
+  role: Developed an algorithm for Deadline aware task offloading
+  duration: Mar, 2019 &mdash; Aug, 2020
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Funded by the National Research Foundation of Korea (NRF).
+
+  # jazznotes.io
+- project: Developing the edge cloud platform for the real time services based on the mobility of connected cars
+  role: Deve loped mobile resource management technology and vehicle production big data analysis technology
+  duration: Apr, 2018 &mdash; Dec, 2020
+  # url: "#"
+  description: Funded by Institute of Information & Communication Technology (IITP).
+
+  # jazznotes.io
+- project: Design and Implementation of Service Manager for Realtime Mobile Service in Edge Clouds
+  role: Developed lightweight service through selective service replication at the edge
+  duration: Jun, 2017 &mdash; May, 2018
+  # url: "#"
+  description: Funded by the National Research Foundation of Korea (NRF).
+
+    # jazznotes.io
+- project: Research on virtual machine management method to guarantee SLA of IoT service in cluster based cloud
+  role: Developed an algorithm for energy aware VM consolidation
+  duration: Jun, 2015 &mdash; May, 2018
+  # url: "#"
+  description: Funded by the National Research Foundation of Korea (NRF).
+
+      # jazznotes.io
+- project: Development of Hypervisor Management Technique for Virtual Machine Security and QoS in Many core based Energy aware Clouds
+  role: Analysis of optimal energy consumption for task migration
+  duration: Sept, 2012 &mdash; Aug, 2015
+  # url: "#"
+  description: Funded by the National Research Foundation of Korea (NRF).
