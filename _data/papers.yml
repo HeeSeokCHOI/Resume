@@ -8,4 +8,27 @@
 - paper: "Task Classification based Energy aware Consolidation in Clouds"
   role: Hindawi, Scientific Programming, Vol.2016 
   year: 2016
-  
+
+- paper: "Physical Machine Status Information Manage ment Scheme based on Resource Utilization in Cloud Computing Environments"
+  role: International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2018), Vol.2, Issue 1, 2018, pp.63 
+  year: 2018
+
+- paper: "Resource Utilization aware Scheduling Technique based on Dynamic Cache Refresh Scheme in Large Scale Cloud Data Centers"
+  role: International Conference on Computational Science and Computational Intelligence 
+  year: 2017  
+
+- paper: "A Study on Performance Comparison of Cloud Architectures Using Nested Virtualization"
+  role: Springer Berlin Heidelberg, Uniquitous Information Technologies and Applications 
+  year: 2014
+
+- paper: “Problem Analysis of Virtual Machine Live Migration for Big Data Processing in IaaS Environments"
+  role: Proceeding of the Korea Information Processing Society Conference 
+  year: 2016
+
+- paper: “Analysis of Optimal Energy Consumption for Task Migration in Clouds"
+  role: Proceeding of the Korea Information Processing Society Conference 
+  year: 2013
+
+- paper: “Heonchang Yu, “Performance Comparison of Tilera Many core and x86 64 Multi core Systems”
+  role: Proceeding of the Korea Information Processing Society Conference 
+  year: 2013
