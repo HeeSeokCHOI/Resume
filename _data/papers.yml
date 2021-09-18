@@ -1,11 +1,11 @@
-# Associations
+# Papers
 # comment out the urls if you do not wish to display them
 
-- organization: "Latency Classification b ased Deadline aware Task Offloading Algorithm in Mobile Edge Computing Environments"
+- paper: "Latency Classification b ased Deadline aware Task Offloading Algorithm in Mobile Edge Computing Environments"
   role: MDPI, Applied Science Basel , Vol.9, Issue 21 
   year: 2019
 
-- organization: "Task Classification based Energy aware Consolidation in Clouds"
+- paper: "Task Classification based Energy aware Consolidation in Clouds"
   role: Hindawi, Scientific Programming, Vol.2016 
   year: 2016
   
