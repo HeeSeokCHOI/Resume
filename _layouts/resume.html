@@ -164,10 +164,10 @@
         </header>
 
         {% for paper in site.data.papers %}
-        <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Papers">
-          <h3 class="resume-item-title" itemprop="name">{% if paper.url %}<a href="{{ paper.url }}">{{ paper.organization }}</a>{% else %}{{ paper.organization }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ paper.role }} &bull; {{ paper.year }}</h4>
-          <p class="resume-item-copy">{{ paper.summary }}</p>
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="paper">{{ recognition.paper }}</h3>
+          <h4 class="resume-item-details">{{ recognition.role }} &bull; {{ recognition.year }}</h4>
+          <p class="resume-item-copy">{{ recognition.summary }}</p>
         </div>
         {% endfor %}
 
