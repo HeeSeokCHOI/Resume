@@ -155,7 +155,7 @@
       <!-- end Recognition -->
       {% endif %}
 
-      {% if site.resume_section_paper %}
+      {% if site.resume_section_papers %}
       <!-- begin Papers -->
       <section class="content-section">
 
@@ -165,9 +165,9 @@
 
         {% for paper in site.data.papers %}
         <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="paper">{{ recognition.paper }}</h3>
-          <h4 class="resume-item-details">{{ recognition.role }} &bull; {{ recognition.year }}</h4>
-          <p class="resume-item-copy">{{ paper.summary }}</p>
+          <h3 class="resume-item-title" itemprop="paper">{{ papers.paper }}</h3>
+          <h4 class="resume-item-details">{{ papers.role }} &bull; {{ papers.year }}</h4>
+          <p class="resume-item-copy">{{ papers.summary }}</p>
         </div>
         {% endfor %}
 
