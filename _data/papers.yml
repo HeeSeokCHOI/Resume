@@ -21,8 +21,28 @@
   role: Springer Berlin Heidelberg, Uniquitous Information Technologies and Applications 
   year: 2014
 
+- paper: "Implementation of Low-latency Message Delivery for Serverless based Workflow"
+  role: IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2019) 
+  year: 2019
+
+- paper: "A Scheduler Considering Characteristics of VM for Mitigation of Unstable Performance"
+  role: International Symposium on Parallel Architectures, Algorithms and Programming (PAAP’18) 
+  year: 2018
+
+- paper: "A Monitoring Scheme Based on Artificial Intelligence in Mobile Edge Cloud Computing Environments"
+  role: KIPS Transactions on Computer and Communication Systems 
+  year: 2018
+
+- paper: "RPC-based GPU Resource Sharing Technique and Task Scheduling with Performance Isolation Support in Cloud Environments"
+  role: nternational Conference on Computational Science and Computational Intelligence 
+  year: 2017
+
 - paper: "Problem Analysis of Virtual Machine Live Migration for Big Data Processing in IaaS Environments"
   role: Proceeding of the Korea Information Processing Society Conference 
+  year: 2016
+
+- paper: "GPSF: General-Purpose Scheduling Framework for Container based on Cloud Environment"
+  role: IEEE International Conference on Green Computing and Communications (GreenCom 2016) 
   year: 2016
 
 - paper: "Analysis of Optimal Energy Consumption for Task Migration in Clouds"
