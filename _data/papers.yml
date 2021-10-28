@@ -1,8 +1,12 @@
 # Papers
 # comment out the urls if you do not wish to display them
 
+- paper: "Design and Implementation of Verifiable Blockchain based e-voting System"
+  role: (Under Review) ESOCC, European Conference and Service-Oriented and Cloud Computing  
+  year: 2022
+
 - paper: "Statement Emotion Decision Model for Human-Friendly Chatbot"
-  role: IUKM, (Under Review) 
+  role: (Under Review) IUKM, International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making 
   year: 2022
 
 - paper: "Latency Classification based Deadline aware Task Offloading Algorithm in Mobile Edge Computing Environments"
