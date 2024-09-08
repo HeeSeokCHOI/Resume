@@ -1,60 +1,67 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# jazznotes.io
+- project: Development of a cloud-based AI solution applying three proof methods to consumer proof of SUA(Sudden Unintended Acceleration) and judgment/prediction of vehicle condition
+  role: Head of Research and Development</p>
+  duration: Aug, 2024 &mdash; Jul, 2025
+  # url: "#"
+  description: Funded by Institute of Korea Technology and Information Promotion Agency for SMEs (TIPA).
 
   # jazznotes.io
 - project: Development of an edge cloud-based vehicle sharing platform that supports user-specific automotive healthcare services
-  role: Development of Real-time data pipeline construction and big data analysis technology</p>   
+  role: Development of Real-time data pipeline construction and big data analysis technology</p>
   duration: Apr, 2022 &mdash; Dec, 2023
   # url: "#"
   description: Funded by Institute of Information & Communication Technology (IITP).
 
 # jazznotes.io
 - project: Development of a smart aging public service platform and prevention of forest disasters using a forest information convergence cloud system.
-  role: Development of the cloud based platform techniques</p>   
+  role: Development of the cloud based platform techniques</p>
   duration: Apr, 2022 &mdash; Dec, 2024
   # url: "#"
   description: Funded by the Korea Forest Service (KFS).
 
-
 # jazznotes.io
 - project: Development of intelligent virtual resource and infrastructure management techniques for cognitive cloud
-  role: Developed of intelligent virtual resource management techniques</p>   
+  role: Developed of intelligent virtual resource management techniques</p>
   duration: Mar, 2020 &mdash; Aug, 2020
   # url: "#"
   description: Funded by the National Research Foundation of Korea (NRF).
 
 # jazznotes.io
 - project: Resource Management Framework with Workload Prediction on Real time Lightweight MEC Systems
-  role: Developed an algorithm for Deadline aware task offloading</p>   
+  role: Developed an algorithm for Deadline aware task offloading</p>
   duration: Mar, 2019 &mdash; Aug, 2020
   # url: "#"
   description: Funded by the National Research Foundation of Korea (NRF).
 
   # jazznotes.io
 - project: Developing the edge cloud platform for the real time services based on the mobility of connected cars
-  role: Developed mobile resource management technology and vehicle production big data analysis technology</p>   
+  role: Developed mobile resource management technology and vehicle production big data analysis technology</p>
   duration: Apr, 2018 &mdash; Dec, 2020
   # url: "#"
   description: Funded by Institute of Information & Communication Technology (IITP).
 
   # jazznotes.io
 - project: Design and Implementation of Service Manager for Realtime Mobile Service in Edge Clouds
-  role: Developed lightweight service through selective service replication at the edge</p>   
+  role: Developed lightweight service through selective service replication at the edge</p>
   duration: Jun, 2017 &mdash; May, 2018
   # url: "#"
-  description: Funded by the National Research Foundation of Korea (NRF).
+  description:
+    Funded by the National Research Foundation of Korea (NRF).
 
     # jazznotes.io
 - project: Research on virtual machine management method to guarantee SLA of IoT service in cluster based cloud
-  role: Developed an algorithm for energy aware VM consolidation</p>   
+  role: Developed an algorithm for energy aware VM consolidation</p>
   duration: Jun, 2015 &mdash; May, 2018
   # url: "#"
-  description: Funded by the National Research Foundation of Korea (NRF).
+  description:
+    Funded by the National Research Foundation of Korea (NRF).
 
-      # jazznotes.io
+    # jazznotes.io
 - project: Development of Hypervisor Management Technique for Virtual Machine Security and QoS in Many core based Energy aware Clouds
-  role: Analysis of optimal energy consumption for task migration</p>   
+  role: Analysis of optimal energy consumption for task migration</p>
   duration: Sept, 2012 &mdash; Aug, 2015
   # url: "#"
   description: Funded by the National Research Foundation of Korea (NRF).
