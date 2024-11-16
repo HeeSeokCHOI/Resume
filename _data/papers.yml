@@ -1,6 +1,10 @@
 # Papers
 # comment out the urls if you do not wish to display them
 
+- paper: "Vehicle Sudden Unintended Acceleration (SUA) Proof Solution Based on Multi-Sensor Technology"
+  role: KTCCS, KIPS Transactions on Computer and Communication Systems
+  year: 2024
+
 - paper: "Design and Implementation of Verifiable Blockchain based e-voting System"
   role: ICICT, International Congress on Information and Communication Technology
   year: 2022
