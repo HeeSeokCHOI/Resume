@@ -1,6 +1,10 @@
 # Papers
 # comment out the urls if you do not wish to display them
 
+- paper: "Vehicle Sudden Unintended Acceleration (SUA) Proof Solution Based on Multi-Sensor Technology"
+  role: KTCCS, KIPS Transactions on Computer and Communication Systems
+  year: 2024
+
 - paper: "Design and Implementation of Verifiable Blockchain based e-voting System"
   role: ICICT, International Congress on Information and Communication Technology
   year: 2022
@@ -10,53 +14,53 @@
   year: 2022
 
 - paper: "Latency Classification based Deadline aware Task Offloading Algorithm in Mobile Edge Computing Environments"
-  role: MDPI, Applied Science Basel , Vol.9, Issue 21 
+  role: MDPI, Applied Science Basel , Vol.9, Issue 21
   year: 2019
 
 - paper: "Task Classification based Energy aware Consolidation in Clouds"
-  role: Hindawi, Scientific Programming, Vol.2016 
+  role: Hindawi, Scientific Programming, Vol.2016
   year: 2016
 
 - paper: "Physical Machine Status Information Manage ment Scheme based on Resource Utilization in Cloud Computing Environments"
-  role: International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2018), Vol.2, Issue 1, 2018, pp.63 
+  role: International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2018), Vol.2, Issue 1, 2018, pp.63
   year: 2018
 
 - paper: "Resource Utilization aware Scheduling Technique based on Dynamic Cache Refresh Scheme in Large Scale Cloud Data Centers"
-  role: International Conference on Computational Science and Computational Intelligence 
-  year: 2017  
+  role: International Conference on Computational Science and Computational Intelligence
+  year: 2017
 
 - paper: "A Study on Performance Comparison of Cloud Architectures Using Nested Virtualization"
-  role: Springer Berlin Heidelberg, Uniquitous Information Technologies and Applications 
+  role: Springer Berlin Heidelberg, Uniquitous Information Technologies and Applications
   year: 2014
 
 - paper: "Implementation of Low-latency Message Delivery for Serverless based Workflow"
-  role: IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2019) 
+  role: IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2019)
   year: 2019
 
 - paper: "A Scheduler Considering Characteristics of VM for Mitigation of Unstable Performance"
-  role: International Symposium on Parallel Architectures, Algorithms and Programming (PAAP’18) 
+  role: International Symposium on Parallel Architectures, Algorithms and Programming (PAAP’18)
   year: 2018
 
 - paper: "A Monitoring Scheme Based on Artificial Intelligence in Mobile Edge Cloud Computing Environments"
-  role: KIPS Transactions on Computer and Communication Systems 
+  role: KIPS Transactions on Computer and Communication Systems
   year: 2018
 
 - paper: "RPC-based GPU Resource Sharing Technique and Task Scheduling with Performance Isolation Support in Cloud Environments"
-  role: International Conference on Computational Science and Computational Intelligence 
+  role: International Conference on Computational Science and Computational Intelligence
   year: 2017
 
 - paper: "Problem Analysis of Virtual Machine Live Migration for Big Data Processing in IaaS Environments"
-  role: Proceeding of the Korea Information Processing Society Conference 
+  role: Proceeding of the Korea Information Processing Society Conference
   year: 2016
 
 - paper: "GPSF: General-Purpose Scheduling Framework for Container based on Cloud Environment"
-  role: IEEE International Conference on Green Computing and Communications (GreenCom 2016) 
+  role: IEEE International Conference on Green Computing and Communications (GreenCom 2016)
   year: 2016
 
 - paper: "Analysis of Optimal Energy Consumption for Task Migration in Clouds"
-  role: Proceeding of the Korea Information Processing Society Conference 
+  role: Proceeding of the Korea Information Processing Society Conference
   year: 2013
 
 - paper: "Performance Comparison of Tilera Many core and x86 64 Multi core Systems"
-  role: Proceeding of the Korea Information Processing Society Conference 
+  role: Proceeding of the Korea Information Processing Society Conference
   year: 2013
