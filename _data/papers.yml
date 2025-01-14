@@ -1,6 +1,10 @@
 # Papers
 # comment out the urls if you do not wish to display them
 
+- paper: "A Study on Classifying Automotive Pedal Dashcam Images Using Transfer Learning"
+  role: KTSDE, KIPS Transactions on Software and Data Engineering
+  year: 2025
+
 - paper: "Vehicle Sudden Unintended Acceleration (SUA) Proof Solution Based on Multi-Sensor Technology"
   role: KTCCS, KIPS Transactions on Computer and Communication Systems
   year: 2024
