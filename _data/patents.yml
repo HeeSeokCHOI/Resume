@@ -1,6 +1,14 @@
 # Patents
 # comment out the urls if you do not wish to display them
 
+- patent: AI Training Module for In-Vehicle Pedal Image Clustering
+  role: "Korea copyright commision: C-2025-021456"
+  year: 2025
+
+- patent: Local/Cloud Simultaneous Storage Module for Real-Time AI Inference Video Data on In-Vehicle Edge Server
+  role: "Korea copyright commision: C-2025-021455"
+  year: 2025
+
 - patent: Method And Apparatus For Determining Sudden Acceleration Of a Vehicle
   role: "Korea patent registration no.: 10-2749600"
   year: 2024
