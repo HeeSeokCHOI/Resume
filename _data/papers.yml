@@ -1,6 +1,10 @@
 # Papers
 # comment out the urls if you do not wish to display them
 
+- paper: "Real-Time AI Inference Method for Verification of Vehicle Sudden Unintended Acceleration (SUA)"
+  role: JKSCI, Journal of The Korea Society of Computer and Information
+  year: 2025
+
 - paper: "A Study on Classifying Automotive Pedal Dashcam Images Using Transfer Learning"
   role: KTSDE, KIPS Transactions on Software and Data Engineering
   year: 2025
