@@ -1,6 +1,10 @@
 # Patents
 # comment out the urls if you do not wish to display them
 
+- patent: SYSTEM FOR ANALYZING PEDAL OPERATION INTENTION AND PREDICTING ABNORMALITY, METHOD, AND COMPUTER-READABLE NON-TRANSITORY RECORDING MEDIUM TO EXECUTE THE METHOD
+  role: "Korea patent no.: 10-2025-0105519"
+  year: 2025
+
 - patent: AI Training Module for In-Vehicle Pedal Image Clustering
   role: "Korea copyright commision: C-2025-021456"
   year: 2025
