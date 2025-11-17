@@ -1,6 +1,10 @@
 # Papers
 # comment out the urls if you do not wish to display them
 
+- paper: "Efficient Edge AI Inference for Real-Time Verification of Sudden Unintended Acceleration"
+  role: ACDSA, International Conference on Artificial Intelligence, Computer, Data Sciences and Applications
+  year: 2026
+
 - paper: "Real-Time AI Inference Method for Verification of Vehicle Sudden Unintended Acceleration (SUA)"
   role: JKSCI, Journal of The Korea Society of Computer and Information
   year: 2025
