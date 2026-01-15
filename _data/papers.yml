@@ -1,6 +1,10 @@
 # Papers
 # comment out the urls if you do not wish to display them
 
+- paper: "Optimizing CNN Class Granularity for Power-Efficient Edge AI in Sudden Unintended Acceleration Verification"
+  role: Computers, Materials & Continua, Integrating Computing Technology of Cloud-Fog-Edge Environments and its Application
+  year: 2026
+
 - paper: "Efficient Edge AI Inference for Real-Time Verification of Sudden Unintended Acceleration"
   role: ACDSA, International Conference on Artificial Intelligence, Computer, Data Sciences and Applications
   year: 2026
