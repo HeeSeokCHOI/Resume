@@ -96,6 +96,46 @@
       <!-- end Education -->
       {% endif %}
 
+      {% if site.resume_section_papers %}
+      <!-- begin Papers -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Paper</h2>
+        </header>
+
+        {% for paper in site.data.papers %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="paper" style="display:inline">{{ paper.paper }}</h3>
+          <p class="resume-item-details">{{ paper.role }} &bull; {{ paper.year }}</p>
+          <p class="resume-item-copy">{{ paper.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Papers -->
+      {% endif %}
+
+      {% if site.resume_section_patents %}
+      <!-- begin Patents -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Patent / Copyright</h2>
+        </header>
+
+        {% for patent in site.data.patents %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="patent" style="display:inline">{{ patent.patent }}</h3>
+          <p class="resume-item-details">{{ patent.role }} &bull; {{ patent.year }}</p>
+          <p class="resume-item-copy">{{ patent.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Patents -->
+      {% endif %}
+
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
@@ -154,46 +194,6 @@
 
       </section>
       <!-- end Recognition -->
-      {% endif %}
-
-      {% if site.resume_section_papers %}
-      <!-- begin Papers -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Paper</h2>
-        </header>
-
-        {% for paper in site.data.papers %}
-        <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="paper" style="display:inline">{{ paper.paper }}</h3>
-          <p class="resume-item-details">{{ paper.role }} &bull; {{ paper.year }}</p>
-          <p class="resume-item-copy">{{ paper.summary }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Papers -->
-      {% endif %}
-
-      {% if site.resume_section_papers %}
-      <!-- begin Patents -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Patent / Copyright</h2>
-        </header>
-
-        {% for patent in site.data.patents %}
-        <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="patent" style="display:inline">{{ patent.patent }}</h3>
-          <p class="resume-item-details">{{ patent.role }} &bull; {{ patent.year }}</p>
-          <p class="resume-item-copy">{{ patent.summary }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Patents -->
       {% endif %}
 
       {% if site.resume_section_interests %}
