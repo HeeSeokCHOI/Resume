@@ -1,6 +1,10 @@
 # Papers
 # comment out the urls if you do not wish to display them
 
+- paper: "Skeleton-Based Multimodal Inference for Driver Pedal Behavior in Sudden Unintended Acceleration Verification on Edge AI"
+  role: "International Winter Workshop on Human-centric Computing and Information Sciences"
+  year: 2026
+
 - paper: "Optimizing CNN Class Granularity for Power-Efficient Edge AI in Sudden Unintended Acceleration Verification"
   role: "Journal: Computers, Materials & Continua (CMC)"
   year: 2026
