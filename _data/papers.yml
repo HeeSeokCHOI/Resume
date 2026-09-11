@@ -2,8 +2,8 @@
 # comment out the urls if you do not wish to display them
 
 - paper: "Skeleton-Based Driver Pedal Action Recognition for Sudden Unintended Acceleration Verification Using Temporal Deep Learning"
-  authors: "**HeeSeok Choi** and Joon-Min Gil"
-  role: "*Human-centric Computing and Information Sciences (HCIS)*, Accepted for publication, 2026 (SCIE)."
+  authors: "<strong>HeeSeok Choi</strong> and Joon-Min Gil"
+  role: "<em>Human-centric Computing and Information Sciences (HCIS)</em>, Accepted for publication, 2026 (SCIE)."
   year: 2026
   
 - paper: "Efficient Edge AI Inference for Real-Time Verification of Sudden Unintended Acceleration"
