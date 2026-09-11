@@ -6,85 +6,85 @@
   year: "2026 (SCIE)"
   
 - paper: "Efficient Edge AI Inference for Real-Time Verification of Sudden Unintended Acceleration"
-  role: "International Conference on Artificial Intelligence, Computer, Data Sciences and Applications(ACDSA) -SCOPUS"
-  year: 2026
+  role: "<strong>HeeSeok Choi</strong>, <em>International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)</em>"
+  year: "2026 (SCOPUS)"
 
 - paper: "Optimizing CNN Class Granularity for Power-Efficient Edge AI in Sudden Unintended Acceleration Verification"
-  role: "Journal: Computers, Materials & Continua (CMC)-SCIE"
-  year: 2026
+  role: "<strong>HeeSeok Choi</strong> and Joon-Min Gil, <em>CMC-Computers, Materials & Continua</em>, Accepted for publication, March"
+  year: "2026 (SCIE)"
 
 - paper: "Skeleton-Based Multimodal Inference for Driver Pedal Behavior in Sudden Unintended Acceleration Verification on Edge AI"
-  role: "International Winter Workshop on Human-centric Computing and Information Sciences"
-  year: 2026  
+  role: "<strong>HeeSeok Choi</strong> and Joon-Min Gil, <em>International Winter Workshop on Human-centric Computing and Information Sciences</em>"
+  year: "2026"
 
 - paper: "Real-Time AI Inference Method for Verification of Vehicle Sudden Unintended Acceleration (SUA)"
-  role: JKSCI, Journal of The Korea Society of Computer and Information
-  year: 2025
+  role: "<strong>HeeSeok Choi</strong>, <em>JKSCI, Journal of The Korea Society of Computer and Information</em>, Vol.30, No.11, pp.71-78"
+  year: "2025 (KCI)"
 
 - paper: "A Study on Classifying Automotive Pedal Dashcam Images Using Transfer Learning"
-  role: KTSDE, KIPS Transactions on Software and Data Engineering
-  year: 2025
+  role: "<strong>HeeSeok Choi</strong> and Jongbeom Lim, <em>KTSDE, KIPS Transactions on Software and Data Engineering</em>, Vol.14, No.2, pp.104-112"
+  year: "2025 (KCI)"
 
 - paper: "Vehicle Sudden Unintended Acceleration (SUA) Proof Solution Based on Multi-Sensor Technology"
-  role: KTCCS, KIPS Transactions on Computer and Communication Systems
-  year: 2024
+  role: "<strong>HeeSeok Choi</strong>, <em>KTCCS, KIPS Transactions on Computer and Communication Systems</em>, Vol.13, No.11, pp.619-627"
+  year: "2024 (KCI)"
 
 - paper: "Design and Implementation of Verifiable Blockchain based e-voting System"
-  role: ICICT, International Congress on Information and Communication Technology
-  year: 2022
+  role: "Seiwoong Choi, <strong>HeeSeok Choi</strong> and Kwang Sik Chung, <em>ICICT, International Congress on Information and Communication Technology</em>"
+  year: "2023 (LNNS)"
 
 - paper: "Statement Emotion Decision Model for Human-Friendly Chatbot"
-  role: ICICT, International Congress on Information and Communication Technology
-  year: 2022
+  role: "Kyoungil Yoon, <strong>HeeSeok Choi</strong> and Kwang Sik Chung, <em>ICICT, International Congress on Information and Communication Technology</em>"
+  year: "2023 (LNNS)"
 
 - paper: "Latency Classification based Deadline aware Task Offloading Algorithm in Mobile Edge Computing Environments"
-  role: MDPI, Applied Science Basel , Vol.9, Issue 21
-  year: 2019
+  role: "<strong>HeeSeok Choi</strong>, Heonchang Yu and EunYoung Lee, <em>Applied Science Basel</em>, Vol.9, Issue 21"
+  year: "2019 (SCIE)"
 
 - paper: "Task Classification based Energy aware Consolidation in Clouds"
-  role: Hindawi, Scientific Programming, Vol.2016
-  year: 2016
+  role: "<strong>HeeSeok Choi</strong>, Heonchang Yu and EunYoung Lee, <em>Hindawi, Scientific Programming</em>, Vol.2016"
+  year: "2016 (SCIE)"
 
-- paper: "Physical Machine Status Information Manage ment Scheme based on Resource Utilization in Cloud Computing Environments"
-  role: International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2018), Vol.2, Issue 1, 2018, pp.63
-  year: 2018
+- paper: "Physical Machine Status Information Management Scheme based on Resource Utilization in Cloud Computing Environments"
+  role: "<strong>HeeSeok Choi</strong>, KwangSik Chung and Heonchang Yu, <em>International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE'2018)</em>, Vol.2, Issue 1, pp.63-64"
+  year: "2018 (International Conference)"
 
-- paper: "Resource Utilization aware Scheduling Technique based on Dynamic Cache Refresh Scheme in Large Scale Cloud Data Centers"
-  role: International Conference on Computational Science and Computational Intelligence
-  year: 2017
+- paper: "Resource Utilization-aware Scheduling Technique based on Dynamic Cache Refresh Scheme in Large-Scale Cloud Data Centers"
+  role: "<strong>HeeSeok Choi</strong>, Heonchang Yu, Jihun Kang, Daewon Lee and KwangSik Chung, <em>International Conference on Computational Science and Computational Intelligence (CSCI)</em>"
+  year: "2017 (SCOPUS)"
 
 - paper: "A Study on Performance Comparison of Cloud Architectures Using Nested Virtualization"
-  role: Springer Berlin Heidelberg, Uniquitous Information Technologies and Applications
-  year: 2014
+  role: "<strong>HeeSeok Choi</strong>, TaeMuk Lyoo, JongBeom Lim, Daeyong Jung, Jihun Kang, Taeweon Suh and Heonchang Yu, <em>Ubiquitous Information Technologies and Applications (LNEE, Springer Berlin Heidelberg)</em>, pp.77-84"
+  year: "2014 (SCOPUS)"
 
 - paper: "Implementation of Low-latency Message Delivery for Serverless based Workflow"
-  role: IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2019)
-  year: 2019
+  role: "Seunghyun Hwang, <strong>HeeSeok Choi</strong> and Heonchang Yu, <em>IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2019)</em>, Poster Paper, pp.170-171"
+  year: "2019 (SCOPUS)"
 
 - paper: "A Scheduler Considering Characteristics of VM for Mitigation of Unstable Performance"
-  role: International Symposium on Parallel Architectures, Algorithms and Programming (PAAP’18)
-  year: 2018
+  role: "Bongwoo Bak, Jihun Kang, <strong>HeeSeok Choi</strong>, Jaehak Lee, KwangSik Chung and Heonchang Yu, <em>International Symposium on Parallel Architectures, Algorithms and Programming (PAAP 2018)</em>, pp.49-53"
+  year: "2018 (SCOPUS)"
 
 - paper: "A Monitoring Scheme Based on Artificial Intelligence in Mobile Edge Cloud Computing Environments"
-  role: KIPS Transactions on Computer and Communication Systems
-  year: 2018
+  role: "JongBeom Lim, <strong>HeeSeok Choi</strong>, Heonchang Yu, <em>KIPS Transactions on Computer and Communication Systems</em>, Vol.7, No.2, pp.27-32"
+  year: "2018 (KCI)"
 
 - paper: "RPC-based GPU Resource Sharing Technique and Task Scheduling with Performance Isolation Support in Cloud Environments"
-  role: International Conference on Computational Science and Computational Intelligence
-  year: 2017
+  role: "Jihun Kang, <strong>HeeSeok Choi</strong>, Heonchang Yu, KwangSik Chung, <em>International Conference on Computational Science and Computational Intelligence (CSCI)</em>"
+  year: "2017 (SCOPUS)"
 
 - paper: "Problem Analysis of Virtual Machine Live Migration for Big Data Processing in IaaS Environments"
-  role: Proceeding of the Korea Information Processing Society Conference
-  year: 2016
+  role: "<strong>HeeSeok Choi</strong>, JongBeom Lim, Sungmin Choi and Eunyoung Lee, <em>Proceedings of the Korea Information Processing Society Conference</em>, pp.66-67"
+  year: "2016"
 
 - paper: "GPSF: General-Purpose Scheduling Framework for Container based on Cloud Environment"
-  role: IEEE International Conference on Green Computing and Communications (GreenCom 2016)
-  year: 2016
+  role: "Sungmin Choi, Rohyoung Myung, <strong>HeeSeok Choi</strong>, KwangSik Chung, Joon-Min Gil and Heonchang Yu, <em>IEEE International Conference on Green Computing and Communications (GreenCom 2016)</em>, pp.769-772"
+  year: "2016 (SCOPUS)"
 
 - paper: "Analysis of Optimal Energy Consumption for Task Migration in Clouds"
-  role: Proceeding of the Korea Information Processing Society Conference
-  year: 2013
+  role: "<strong>HeeSeok Choi</strong>, SookKyong Choi, JiSu Park, Teaweon Suh and Heonchang Yu, <em>Proceedings of the Korea Information Processing Society Conference</em>, pp.131-134"
+  year: "2013"
 
-- paper: "Performance Comparison of Tilera Many core and x86 64 Multi core Systems"
-  role: Proceeding of the Korea Information Processing Society Conference
-  year: 2013
+- paper: "Performance Comparison of Tilera Many core and x86_64 Multi core Systems"
+  role: "<strong>HeeSeok Choi</strong>, TaeMuk Lyoo, JiSu Park, Daeyong Jung, JongBeom Lim, Jungha Lee, Teaweon Suh and Heonchang Yu, <em>Proceedings of the Korea Information Processing Society Conference</em>, pp.102-105"
+  year: "2013"
