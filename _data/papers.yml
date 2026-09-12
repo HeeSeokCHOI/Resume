@@ -6,7 +6,7 @@
   year: "September 2026 (SCIE)"
   
 - paper: "Efficient Edge AI Inference for Real-Time Verification of Sudden Unintended Acceleration"
-  role: "<strong>HeeSeok Choi</strong>, <em>International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)</em>"
+  role: "<strong>HeeSeok Choi</strong>, <em>International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)</em>, doi: 10.1109/ACDSA67686.2026.11468243"
   year: "April 2026 (SCOPUS)"
 
 - paper: "Optimizing CNN Class Granularity for Power-Efficient Edge AI in Sudden Unintended Acceleration Verification"
@@ -18,31 +18,31 @@
   year: "February 2026"
 
 - paper: "Real-Time AI Inference Method for Verification of Vehicle Sudden Unintended Acceleration (SUA)"
-  role: "<strong>HeeSeok Choi</strong>, <em>JKSCI, Journal of The Korea Society of Computer and Information</em>, Vol.30, No.11, pp.71-78"
+  role: "<strong>HeeSeok Choi</strong>, <em>JKSCI, Journal of The Korea Society of Computer and Information</em>, Vol.30, No.11, pp.71-78, doi: 10.9708/jksci.2025.30.11.071"
   year: "October 2025 (KCI)"
 
 - paper: "A Study on Classifying Automotive Pedal Dashcam Images Using Transfer Learning"
-  role: "<strong>HeeSeok Choi</strong> and Jongbeom Lim, <em>KTSDE, KIPS Transactions on Software and Data Engineering</em>, Vol.14, No.2, pp.104-112"
+  role: "<strong>HeeSeok Choi</strong> and Jongbeom Lim, <em>KTSDE, KIPS Transactions on Software and Data Engineering</em>, Vol.14, No.2, pp.104-112, doi: 10.3745/TKIPS.2025.14.2.104"
   year: "January 2025 (KCI)"
 
 - paper: "Vehicle Sudden Unintended Acceleration (SUA) Proof Solution Based on Multi-Sensor Technology"
-  role: "<strong>HeeSeok Choi</strong>, <em>KTCCS, KIPS Transactions on Computer and Communication Systems</em>, Vol.13, No.11, pp.619-627"
+  role: "<strong>HeeSeok Choi</strong>, <em>KTCCS, KIPS Transactions on Computer and Communication Systems</em>, Vol.13, No.11, pp.619-627, doi: 10.3745/TKIPS.2024.13.11.619"
   year: "November 2024 (KCI)"
 
 - paper: "Design and Implementation of Verifiable Blockchain based e-voting System"
-  role: "Seiwoong Choi, <strong>HeeSeok Choi</strong> and Kwang Sik Chung, <em>ICICT, International Congress on Information and Communication Technology</em>"
+  role: "Seiwoong Choi, <strong>HeeSeok Choi</strong> and Kwang Sik Chung, <em>ICICT, International Congress on Information and Communication Technology</em>, doi: 10.1007/978-981-19-1607-6_50"
   year: "2023 (LNNS)"
 
 - paper: "Statement Emotion Decision Model for Human-Friendly Chatbot"
-  role: "Kyoungil Yoon, <strong>HeeSeok Choi</strong> and Kwang Sik Chung, <em>ICICT, International Congress on Information and Communication Technology</em>"
+  role: "Kyoungil Yoon, <strong>HeeSeok Choi</strong> and Kwang Sik Chung, <em>ICICT, International Congress on Information and Communication Technology</em>, doi: 10.1007/978-981-19-1610-6_48"
   year: "2023 (LNNS)"
 
 - paper: "Latency Classification based Deadline aware Task Offloading Algorithm in Mobile Edge Computing Environments"
-  role: "<strong>HeeSeok Choi</strong>, Heonchang Yu and EunYoung Lee, <em>Applied Science Basel</em>, Vol.9, Issue 21"
+  role: "<strong>HeeSeok Choi</strong>, Heonchang Yu and EunYoung Lee, <em>Applied Science Basel</em>, Vol.9, Issue 21, doi: 10.3390/app9214696"
   year: "2019 (SCIE)"
 
 - paper: "Task Classification based Energy aware Consolidation in Clouds"
-  role: "<strong>HeeSeok Choi</strong>, Heonchang Yu and EunYoung Lee, <em>Hindawi, Scientific Programming</em>, Vol.2016"
+  role: "<strong>HeeSeok Choi</strong>, Heonchang Yu and EunYoung Lee, <em>Hindawi, Scientific Programming</em>, Vol.2016, doi: 10.1155/2016/6208358"
   year: "2016 (SCIE)"
 
 - paper: "Physical Machine Status Information Management Scheme based on Resource Utilization in Cloud Computing Environments"
@@ -50,7 +50,7 @@
   year: "2018 (International Conference)"
 
 - paper: "Resource Utilization-aware Scheduling Technique based on Dynamic Cache Refresh Scheme in Large-Scale Cloud Data Centers"
-  role: "<strong>HeeSeok Choi</strong>, Heonchang Yu, Jihun Kang, Daewon Lee and KwangSik Chung, <em>International Conference on Computational Science and Computational Intelligence (CSCI)</em>"
+  role: "<strong>HeeSeok Choi</strong>, Heonchang Yu, Jihun Kang, Daewon Lee and KwangSik Chung, <em>International Conference on Computational Science and Computational Intelligence (CSCI)</em>, DOI: 10.1109/CSCI.2017.272"
   year: "2017 (SCOPUS)"
 
 - paper: "A Study on Performance Comparison of Cloud Architectures Using Nested Virtualization"
@@ -66,7 +66,7 @@
   year: "2018 (SCOPUS)"
 
 - paper: "A Monitoring Scheme Based on Artificial Intelligence in Mobile Edge Cloud Computing Environments"
-  role: "JongBeom Lim, <strong>HeeSeok Choi</strong>, Heonchang Yu, <em>KIPS Transactions on Computer and Communication Systems</em>, Vol.7, No.2, pp.27-32"
+  role: "JongBeom Lim, <strong>HeeSeok Choi</strong>, Heonchang Yu, <em>KIPS Transactions on Computer and Communication Systems</em>, Vol.7, No.2, pp.27-32, doi: 10.3745/KTCCS.2018.7.2.27"
   year: "2018 (KCI)"
 
 - paper: "RPC-based GPU Resource Sharing Technique and Task Scheduling with Performance Isolation Support in Cloud Environments"
@@ -78,7 +78,7 @@
   year: "2016"
 
 - paper: "GPSF: General-Purpose Scheduling Framework for Container based on Cloud Environment"
-  role: "Sungmin Choi, Rohyoung Myung, <strong>HeeSeok Choi</strong>, KwangSik Chung, Joon-Min Gil and Heonchang Yu, <em>IEEE International Conference on Green Computing and Communications (GreenCom 2016)</em>, pp.769-772"
+  role: "Sungmin Choi, Rohyoung Myung, <strong>HeeSeok Choi</strong>, KwangSik Chung, Joon-Min Gil and Heonchang Yu, <em>IEEE International Conference on Green Computing and Communications (GreenCom 2016)</em>, pp.769-772, doi: 10.1109/iThings-GreenCom-CPSCom-SmartData.2016.162"
   year: "2016 (SCOPUS)"
 
 - paper: "Analysis of Optimal Energy Consumption for Task Migration in Clouds"
